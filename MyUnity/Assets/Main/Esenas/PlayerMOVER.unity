@@ -676,15 +676,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67bb19b073bbbf04cb42b29b6d6df881, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  altura: 1.7
-  edad: 19
-  nombre: Loren
-  puedeVotar: 1
-  gameObject: {fileID: 1665343830}
-  rigidbody2D: {fileID: 1665343833}
-  collider2D: {fileID: 1665343834}
-  spriteRenderer: {fileID: 1665343831}
-  transform: {fileID: 1665343832}
+  _force: 35
+  _speed: 505
+  _rigidbody2D: {fileID: 0}
 --- !u!1 &2049426946
 GameObject:
   m_ObjectHideFlags: 0
